@@ -13,6 +13,9 @@
 # <h1> Objetos internos Git </h1>
 ## BLOB - armazena metadados do Git. Exemplo: tipo do objeto, tamanho do arquivo...
 ## TREE - armazena Blobs, guardando nome do arquivo.
+
+
+
 ## COMMIT - armazena o projeto em si.
 
 
